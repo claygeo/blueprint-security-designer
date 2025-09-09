@@ -138,11 +138,11 @@ CREATE POLICY "Users can delete own blueprint images" ON storage.objects
 The application features a modern, intuitive interface with the following key screens:
 
 - **Dashboard**: Central hub showing saved blueprints and system features
+<img width="1916" height="891" alt="blueprint-1" src="https://github.com/user-attachments/assets/70a84ada-fcd2-4211-9069-36f32a60ccb2" />
 - **Blueprint Editor**: Interactive canvas for placing equipment and defining zones
+<img width="1911" height="902" alt="blueprint-2" src="https://github.com/user-attachments/assets/dbdde6e2-2b9c-4ddf-afa4-2aac9b13a1b6" />
 - **Interactive Viewer**: Click-to-explore interface for viewing blueprint details
-- **Authentication**: Clean login and registration forms
-
-*Screenshots and demo GIFs to be added. soonTM*
+<img width="1918" height="897" alt="blueprint-3" src="https://github.com/user-attachments/assets/4b186f2a-4ad6-4146-8b90-183bee11c8ff" />
 
 ## Notes
 
